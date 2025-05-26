@@ -43,7 +43,6 @@ def show_login_page():
     username = st.sidebar.text_input("Username")
     if (username=="admin"):
         username = "professor Mr. Frank"
-    password = st.sidebar.text_input("Password",)
     password = st.sidebar.text_input("Password", type="password")
 
     if st.sidebar.button("Login"):
