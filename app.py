@@ -11,7 +11,8 @@ from datetime import datetime
 # In a real application, use a secure database or authentication service.
 USERS = {
     "user1": "pass123",
-    "admin": "admin"
+    "admin": "admin",
+    "professor Mr. Frank": "admin"
 }
 
 # Define paths for the model and scaler
