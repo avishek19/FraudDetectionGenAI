@@ -3,8 +3,8 @@ Create Fraud Detection model using streamlit
 
 Model is ruuning in https://frauddetectiongenai-avishek.streamlit.app/
 
-Professor 
+Professor: 
 username - admin / password - admin
 
-Normal User
+Normal User:
 username - user1 / password - pass123
